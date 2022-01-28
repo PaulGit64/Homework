@@ -1,13 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29abb341-8b36-4a84-ac09-45a2a981ab3a" name="Default Changelist" comment="" />
+    <list default="true" id="29abb341-8b36-4a84-ac09-45a2a981ab3a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Productly/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Productly/.idea/Productly.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Productly/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Productly/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Productly/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Productly/img/hero_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Productly/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Productly/img/name.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Productly/img/play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Productly/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="23LLgNFF6LXFrFaNdm9qYyBvqyy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,6 +48,8 @@
       <option name="presentableId" value="Default" />
       <updated>1641508545900</updated>
       <workItem from="1641508571507" duration="143000" />
+      <workItem from="1643027194653" duration="26000" />
+      <workItem from="1643409187870" duration="170000" />
     </task>
     <servers />
   </component>
